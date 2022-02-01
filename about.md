@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+PDF Sauce began as a website for hosting and sharing pirated PDFs of expensive textbooks, to help those thousands across the world who cannot afford the hard copy books.
 
-### More Information
+So instead of watching the capitalist world gnaw away at the lives of the underprivileged, PDF Sauce decided to open up our website.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Requesting a PDF/book
 
-### Contact me
+Currently we cannot reveal any contact methods due to recent cyberattacks.
 
-[email@domain.com](mailto:email@domain.com)
+### Submitting a PDF/book
+
+We would greatly appreciate your generosity, but at this moment, all our contact systems have been kept incognito for privacy reasons.
